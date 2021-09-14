@@ -1,0 +1,7 @@
+LOCAL_HOST = 'http://localhost:8000'
+
+# Dynamo Defaults
+DEFAULT_READ_CAPACITY_UNITS = 1024
+DEFAULT_WRITE_CAPACITY_UNITS = 1024
+
+
